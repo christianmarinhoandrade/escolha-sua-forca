@@ -1,0 +1,50 @@
+{
+  "name": "challange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianmarinhoandrade/challange.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christianmarinhoandrade/challange/issues"
+  },
+  "homepage": "https://github.com/christianmarinhoandrade/challange#readme",
+  "dependencies": {
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.4.3",
+    "process": "^0.11.10",
+    "react-dev-utils": "^11.0.4",
+    "react-refresh": "^0.10.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-react": "^7.12.13",
+    "axios": "^0.21.1",
+    "babel-loader": "^8.2.2",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^5.1.3",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.3.1",
+    "mini-css-extract-plugin": "^1.3.9",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "redux": "^4.0.5",
+    "seamless-immutable": "^7.1.4",
+    "styled-components": "^5.2.1",
+    "styled-media-query": "^2.1.2",
+    "ttf-loader": "^1.0.2",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.31.2",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "4.0.0-beta.2"
+  }
+}
