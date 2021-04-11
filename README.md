@@ -1,3 +1,3 @@
-# Desafio técnico de front-end da iClinic
+# Escolha a sua força
 
 Para execução do projeto execute o comando yarn start
